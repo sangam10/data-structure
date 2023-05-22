@@ -1,3 +1,4 @@
+# implementation of queue using list
 class Queue:
     # initialized queue constructor
     def __init__(self,max_size = None):
